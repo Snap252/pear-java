@@ -16,7 +16,7 @@
     <artifactId>pear-java-impl</artifactId>
     <packaging>jar</packaging>
 
-    <name>library:${project.version}</name>
+    <name>pear-java-impl:${project.version}</name>
 
     <description>
         A pear instrumentation library for java.
@@ -61,7 +61,7 @@
     	<dependency>
     		<groupId>org.phpmaven.phpexec-java</groupId>
     		<artifactId>phpexec-cli</artifactId>
-    		<version>0.1.9</version>
+    		<version>0.1.10-SNAPSHOT</version>
         	<scope>test</scope>
     	</dependency>
         <dependency>

@@ -18,7 +18,7 @@
     <version>0.1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>${project.version}</name>
+    <name>pear-java:${project.version}</name>
 
     <description>
         A pear instrumentation library for java.
